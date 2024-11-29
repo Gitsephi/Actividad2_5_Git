@@ -10,7 +10,7 @@ import org.lapaloma.aadd.mapamundi.dao.IOrganismoDAO;
 import org.lapaloma.aadd.mapamundi.dao.impl.OrganismoDaoJDBC;
 import org.lapaloma.aadd.mapamundi.util.GestorFicheroConfiguracion;
 import org.lapaloma.aadd.mapamundi.vo.Organismo;
-//bUENAS TARDES
+//bUENAS Dias
  public class AppPrincipal {
 	 
 	public static void main(String[] args) {
